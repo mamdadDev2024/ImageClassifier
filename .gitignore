@@ -1,3 +1,2 @@
 /.venv
-/data
-simple_model.keras
+src/simple_model.keras
